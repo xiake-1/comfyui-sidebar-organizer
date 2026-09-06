@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-sidebar-organizer"
+description = "Sidebar organizer for ComfyUI: folders for workflows and node blueprints with drag & drop, drag-to-canvas insertion, and an auto-backup area."
+version = "0.1.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/xiake-1/comfyui-sidebar-organizer"
+
+# Comfy Registry (https://comfyregistry.org) metadata - fill in when publishing:
+# [tool.comfy]
+# PublisherId = "xiake-1"
+# DisplayName = "ComfyUI Sidebar Organizer"
