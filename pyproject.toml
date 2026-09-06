@@ -6,9 +6,9 @@ license = { file = "LICENSE" }
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/xiake-1/comfyui-sidebar-organizer"
+Repository = "https://github.com/moming/comfyui-sidebar-organizer"
 
-# Comfy Registry (https://comfyregistry.org) metadata - fill in when publishing:
-# [tool.comfy]
-# PublisherId = "xiake-1"
-# DisplayName = "ComfyUI Sidebar Organizer"
+[tool.comfy]
+PublisherId = "moming"
+DisplayName = "ComfyUI Sidebar Organizer"
+# Icon = "https://raw.githubusercontent.com/moming/comfyui-sidebar-organizer/main/icon.png"
